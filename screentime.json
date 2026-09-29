@@ -2,31 +2,26 @@
   {
     "app": "chatGPT",
     "action": "close",
-    "time": "2026-09-29T15:26:08.700Z"
+    "time": "2026-09-29T15:33:23.837Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:33:41.096Z"
   },
   {
     "app": "wechat",
     "action": "open",
-    "time": "2026-09-29T15:26:24.100Z"
+    "time": "2026-09-29T15:33:52.927Z"
   },
   {
     "app": "chatGPT",
     "action": "open",
-    "time": "2026-09-29T15:26:24.560Z"
-  },
-  {
-    "app": "chatGPT",
-    "action": "close",
-    "time": "2026-09-29T15:26:42.051Z"
-  },
-  {
-    "app": "chatGPT",
-    "action": "open",
-    "time": "2026-09-29T15:26:46.999Z"
+    "time": "2026-09-29T15:33:57.197Z"
   },
   {
     "app": "test7",
-    "action": "close",
-    "time": "2026-09-29T15:27:00.722Z"
+    "action": "open",
+    "time": "2026-09-29T15:34:12.286Z"
   }
 ]
