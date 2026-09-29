@@ -1,0 +1,32 @@
+[
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:26:08.700Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-09-29T15:26:24.100Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:26:24.560Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:26:42.051Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:26:46.999Z"
+  },
+  {
+    "app": "test7",
+    "action": "close",
+    "time": "2026-09-29T15:27:00.722Z"
+  }
+]
