@@ -23,5 +23,425 @@
     "app": "test7",
     "action": "open",
     "time": "2026-09-29T15:34:12.286Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:34:23.977Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:34:25.563Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:34:28.623Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:34:40.195Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:35:39.324Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:36:20.474Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:36:23.874Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:36:39.489Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:37:18.332Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:37:39.732Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:37:49.043Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:37:57.145Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:38:19.880Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:38:48.653Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:39:49.009Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:40:09.299Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:40:19.231Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:40:40.115Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:41:50.405Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:41:54.313Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:42:33.910Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:42:37.376Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:42:59.926Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:43:03.622Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:43:19.029Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:43:53.038Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:44:00.619Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:44:13.529Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:44:24.354Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:44:51.418Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-09-29T15:45:13.128Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-09-29T15:46:29.335Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:46:30.710Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:46:45.200Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:46:52.014Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:52:18.994Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:52:34.725Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:52:40.008Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:52:49.928Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:52:56.226Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:53:00.172Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:53:15.035Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:53:43.515Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:55:10.525Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:55:16.757Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:55:27.410Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:55:36.579Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:55:46.202Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:56:00.761Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:56:04.757Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:56:45.143Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:56:52.493Z"
+  },
+  {
+    "app": "doubao",
+    "action": "open",
+    "time": "2026-09-29T15:57:15.911Z"
+  },
+  {
+    "app": "doubao",
+    "action": "close",
+    "time": "2026-09-29T15:57:27.762Z"
+  },
+  {
+    "app": "doubao",
+    "action": "open",
+    "time": "2026-09-29T15:57:46.858Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:57:48.243Z"
+  },
+  {
+    "app": "doubao",
+    "action": "close",
+    "time": "2026-09-29T15:57:49.838Z"
+  },
+  {
+    "app": "doubao",
+    "action": "open",
+    "time": "2026-09-29T15:57:51.565Z"
+  },
+  {
+    "app": "doubao",
+    "action": "close",
+    "time": "2026-09-29T15:57:53.271Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-09-29T15:58:08.544Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:58:08.764Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:58:51.029Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-09-29T15:59:19.920Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:59:20.336Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T15:59:22.636Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T15:59:34.119Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:00:16.095Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-09-29T16:00:16.284Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T16:03:04.172Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:03:40.645Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T16:03:42.790Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:03:44.854Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-09-29T16:04:22.596Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:04:27.060Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T16:05:37.504Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:05:40.452Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T16:05:51.360Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:05:54.409Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-09-29T16:06:25.812Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T16:06:26.368Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:06:28.949Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-09-29T16:06:40.359Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-29T16:06:42.836Z"
+  },
+  {
+    "app": "test8",
+    "action": "open",
+    "time": "2026-09-29T16:06:54.142Z"
   }
 ]
