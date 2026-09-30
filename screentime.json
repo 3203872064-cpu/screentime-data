@@ -1925,8 +1925,13 @@
     "time": "2026-09-30T15:55:27.488Z"
   },
   {
-    "app": "X",
-    "action": "open",
-    "time": "2026-09-30T15:55:29.157Z"
+    "app": "douyin",
+    "action": "close",
+    "time": "2026-09-30T15:55:29.321Z"
+  },
+  {
+    "app": "xiaohongshu",
+    "action": "close",
+    "time": "2026-09-30T16:25:44.348Z"
   }
 ]
