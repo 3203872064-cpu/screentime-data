@@ -1373,5 +1373,15 @@
     "app": "chatGPT",
     "action": "open",
     "time": "2026-09-30T10:01:42.897Z"
+  },
+  {
+    "app": "xiaohongshu",
+    "action": "open",
+    "time": "2026-09-30T10:01:43.408Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-09-30T10:02:40.782Z"
   }
 ]
