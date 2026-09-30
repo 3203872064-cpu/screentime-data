@@ -1448,5 +1448,10 @@
     "app": "doubao",
     "action": "close",
     "time": "2026-09-30T10:14:24.405Z"
+  },
+  {
+    "app": "douyin",
+    "action": "close",
+    "time": "2026-09-30T10:28:28.522Z"
   }
 ]
