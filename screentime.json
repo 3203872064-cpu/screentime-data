@@ -1825,8 +1825,13 @@
     "time": "2026-09-30T12:26:28.174Z"
   },
   {
-    "app": "chatGPT",
-    "action": "close",
-    "time": "2026-09-30T12:26:53.331Z"
+    "app": "douyin",
+    "action": "open",
+    "time": "2026-09-30T12:26:53.355Z"
+  },
+  {
+    "app": "taobao",
+    "action": "open",
+    "time": "2026-09-30T12:27:04.554Z"
   }
 ]
