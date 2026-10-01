@@ -2013,5 +2013,15 @@
     "app": "wechat",
     "action": "close",
     "time": "2026-10-01T02:37:26.773Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "close",
+    "time": "2026-10-01T02:37:27.675Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-10-01T02:37:33.754Z"
   }
 ]
