@@ -2613,5 +2613,10 @@
     "app": "pinduoduo",
     "action": "open",
     "time": "2026-10-01T08:08:39.475Z"
+  },
+  {
+    "app": "Threads",
+    "action": "open",
+    "time": "2026-10-01T08:15:59.751Z"
   }
 ]
