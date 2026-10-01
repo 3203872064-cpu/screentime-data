@@ -2688,5 +2688,10 @@
     "app": "douyin",
     "action": "close",
     "time": "2026-10-01T18:50:07.251Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-10-01T18:50:11.672Z"
   }
 ]
