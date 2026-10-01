@@ -2608,5 +2608,10 @@
     "app": "Threads",
     "action": "close",
     "time": "2026-10-01T08:08:38.986Z"
+  },
+  {
+    "app": "pinduoduo",
+    "action": "open",
+    "time": "2026-10-01T08:08:39.475Z"
   }
 ]
