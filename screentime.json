@@ -2078,5 +2078,10 @@
     "app": "chatGPT",
     "action": "open",
     "time": "2026-10-01T02:45:57.746Z"
+  },
+  {
+    "app": "douyin",
+    "action": "open",
+    "time": "2026-10-01T02:48:08.017Z"
   }
 ]
