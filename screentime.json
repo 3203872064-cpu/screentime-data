@@ -2008,5 +2008,10 @@
     "app": "wechat",
     "action": "open",
     "time": "2026-10-01T02:36:39.110Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-10-01T02:37:26.773Z"
   }
 ]
