@@ -2518,5 +2518,10 @@
     "app": "wechat",
     "action": "open",
     "time": "2026-10-01T07:28:02.518Z"
+  },
+  {
+    "app": "Threads",
+    "action": "close",
+    "time": "2026-10-01T07:28:22.212Z"
   }
 ]
