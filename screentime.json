@@ -3013,5 +3013,10 @@
     "app": "meituxiuxiu",
     "action": "open",
     "time": "2026-10-02T17:45:57.577Z"
+  },
+  {
+    "app": "meituxiuxiu",
+    "action": "close",
+    "time": "2026-10-02T17:47:07.526Z"
   }
 ]
