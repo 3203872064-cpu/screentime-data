@@ -2998,5 +2998,10 @@
     "app": "xiaohongshu",
     "action": "close",
     "time": "2026-10-02T17:45:28.835Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-10-02T17:45:29.285Z"
   }
 ]
