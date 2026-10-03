@@ -3083,5 +3083,10 @@
     "app": "X",
     "action": "close",
     "time": "2026-10-03T12:28:49.971Z"
+  },
+  {
+    "app": "hongguoduanju",
+    "action": "open",
+    "time": "2026-10-03T17:16:08.574Z"
   }
 ]
