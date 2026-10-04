@@ -3543,5 +3543,10 @@
     "app": "douyin",
     "action": "open",
     "time": "2026-10-04T06:35:46.268Z"
+  },
+  {
+    "app": "douyin",
+    "action": "close",
+    "time": "2026-10-04T06:35:49.162Z"
   }
 ]
