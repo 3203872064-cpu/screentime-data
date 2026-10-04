@@ -3533,5 +3533,10 @@
     "app": "xiaohongshu",
     "action": "close",
     "time": "2026-10-04T06:35:41.185Z"
+  },
+  {
+    "app": "douyin",
+    "action": "close",
+    "time": "2026-10-04T06:35:43.636Z"
   }
 ]
