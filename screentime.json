@@ -3578,5 +3578,10 @@
     "app": "doubao",
     "action": "open",
     "time": "2026-10-04T06:43:34.248Z"
+  },
+  {
+    "app": "doubao",
+    "action": "close",
+    "time": "2026-10-04T06:44:10.689Z"
   }
 ]
