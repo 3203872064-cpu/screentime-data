@@ -3380,8 +3380,13 @@
     "time": "2026-10-04T05:46:41.058Z"
   },
   {
-    "app": "wechat",
+    "app": "xiaohongshu",
+    "action": "open",
+    "time": "2026-10-04T05:48:05.793Z"
+  },
+  {
+    "app": "xiaohongshu",
     "action": "close",
-    "time": "2026-10-04T05:48:05.808Z"
+    "time": "2026-10-04T05:48:25.202Z"
   }
 ]
