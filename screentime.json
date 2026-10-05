@@ -4328,5 +4328,10 @@
     "app": "wechat",
     "action": "open",
     "time": "2026-10-05T02:34:58.887Z"
+  },
+  {
+    "app": "xiaohongshu",
+    "action": "close",
+    "time": "2026-10-05T02:41:16.812Z"
   }
 ]
