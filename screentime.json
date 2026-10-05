@@ -3968,5 +3968,10 @@
     "app": "doubao",
     "action": "close",
     "time": "2026-10-04T18:56:29.262Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-10-05T01:33:15.997Z"
   }
 ]
