@@ -4053,5 +4053,10 @@
     "app": "wechat",
     "action": "close",
     "time": "2026-10-05T01:41:02.052Z"
+  },
+  {
+    "app": "douyin",
+    "action": "open",
+    "time": "2026-10-05T01:41:04.076Z"
   }
 ]
