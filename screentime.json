@@ -4903,5 +4903,10 @@
     "app": "meituxiuxiu",
     "action": "open",
     "time": "2026-10-06T06:03:25.494Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-10-06T06:09:17.926Z"
   }
 ]
