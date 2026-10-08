@@ -5018,5 +5018,10 @@
     "app": "taobao",
     "action": "close",
     "time": "2026-10-08T02:15:39.572Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-10-08T02:15:50.521Z"
   }
 ]
