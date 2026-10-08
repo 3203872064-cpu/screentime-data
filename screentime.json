@@ -5008,5 +5008,10 @@
     "app": "chatGPT",
     "action": "open",
     "time": "2026-10-08T02:13:31.523Z"
+  },
+  {
+    "app": "taobao",
+    "action": "open",
+    "time": "2026-10-08T02:13:42.188Z"
   }
 ]
