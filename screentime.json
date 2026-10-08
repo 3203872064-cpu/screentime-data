@@ -4993,5 +4993,10 @@
     "app": "chatGPT",
     "action": "open",
     "time": "2026-10-08T02:10:01.714Z"
+  },
+  {
+    "app": "pinduoduo",
+    "action": "close",
+    "time": "2026-10-08T02:10:02.055Z"
   }
 ]
