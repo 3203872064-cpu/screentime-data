@@ -5073,5 +5073,10 @@
     "app": "wechat",
     "action": "open",
     "time": "2026-10-08T02:23:49.472Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-10-08T02:27:47.454Z"
   }
 ]
