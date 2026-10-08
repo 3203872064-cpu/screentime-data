@@ -5013,5 +5013,10 @@
     "app": "taobao",
     "action": "open",
     "time": "2026-10-08T02:13:42.188Z"
+  },
+  {
+    "app": "taobao",
+    "action": "close",
+    "time": "2026-10-08T02:15:39.572Z"
   }
 ]
