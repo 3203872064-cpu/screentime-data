@@ -5203,5 +5203,10 @@
     "app": "Threads",
     "action": "close",
     "time": "2026-10-09T17:13:41.192Z"
+  },
+  {
+    "app": "douyin",
+    "action": "close",
+    "time": "2026-10-10T07:24:53.824Z"
   }
 ]
