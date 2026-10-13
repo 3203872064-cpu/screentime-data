@@ -5293,5 +5293,10 @@
     "app": "xiaohongshu",
     "action": "close",
     "time": "2026-10-13T05:51:48.994Z"
+  },
+  {
+    "app": "xiaohongshu",
+    "action": "open",
+    "time": "2026-10-13T05:53:15.660Z"
   }
 ]
