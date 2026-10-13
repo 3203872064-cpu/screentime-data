@@ -5528,5 +5528,10 @@
     "app": "baiduditu",
     "action": "close",
     "time": "2026-10-13T06:28:54.387Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-10-13T08:54:41.090Z"
   }
 ]
