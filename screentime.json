@@ -5523,5 +5523,10 @@
     "app": "baiduditu",
     "action": "open",
     "time": "2026-10-13T06:28:14.541Z"
+  },
+  {
+    "app": "baiduditu",
+    "action": "close",
+    "time": "2026-10-13T06:28:54.387Z"
   }
 ]
