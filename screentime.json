@@ -5383,5 +5383,10 @@
     "app": "xiaohongshu",
     "action": "open",
     "time": "2026-10-13T06:06:38.078Z"
+  },
+  {
+    "app": "doubao",
+    "action": "open",
+    "time": "2026-10-13T06:07:37.695Z"
   }
 ]
