@@ -6048,5 +6048,10 @@
     "app": "chatGPT",
     "action": "open",
     "time": "2026-10-14T07:43:50.242Z"
+  },
+  {
+    "app": "doubao",
+    "action": "close",
+    "time": "2026-10-14T07:44:36.410Z"
   }
 ]
