@@ -6908,10 +6908,5 @@
     "app": "doubao",
     "action": "close",
     "time": "2026-10-20T05:13:02.531Z"
-  },
-  {
-    "app": "Threads",
-    "action": "close",
-    "time": "2026-10-20T05:13:02.857Z"
   }
 ]
