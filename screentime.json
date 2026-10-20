@@ -7068,5 +7068,10 @@
     "app": "wechat",
     "action": "close",
     "time": "2026-10-20T15:53:42.860Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-10-20T15:54:01.175Z"
   }
 ]
