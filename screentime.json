@@ -6868,5 +6868,10 @@
     "app": "Threads",
     "action": "close",
     "time": "2026-10-20T05:05:02.107Z"
+  },
+  {
+    "app": "Threads",
+    "action": "open",
+    "time": "2026-10-20T05:05:11.082Z"
   }
 ]
