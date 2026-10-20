@@ -6623,5 +6623,10 @@
     "app": "xiaohongshu",
     "action": "close",
     "time": "2026-10-20T00:23:27.958Z"
+  },
+  {
+    "app": "chatGPT",
+    "action": "open",
+    "time": "2026-10-20T00:23:28.405Z"
   }
 ]
