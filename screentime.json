@@ -6958,5 +6958,10 @@
     "app": "meituxiuxiu",
     "action": "close",
     "time": "2026-10-20T15:27:12.745Z"
+  },
+  {
+    "app": "wechat",
+    "action": "open",
+    "time": "2026-10-20T15:27:48.798Z"
   }
 ]
