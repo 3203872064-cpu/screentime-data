@@ -6948,5 +6948,10 @@
     "app": "Threads",
     "action": "close",
     "time": "2026-10-20T05:41:50.341Z"
+  },
+  {
+    "app": "xiaohongshu",
+    "action": "open",
+    "time": "2026-10-20T15:26:52.575Z"
   }
 ]
