@@ -7148,5 +7148,10 @@
     "app": "douyin",
     "action": "close",
     "time": "2026-10-21T08:32:39.515Z"
+  },
+  {
+    "app": "wodeshijie",
+    "action": "open",
+    "time": "2026-10-21T08:44:25.306Z"
   }
 ]
