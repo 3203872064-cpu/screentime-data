@@ -7263,5 +7263,10 @@
     "app": "hongguoduanju",
     "action": "close",
     "time": "2026-10-21T14:41:28.916Z"
+  },
+  {
+    "app": "Threads",
+    "action": "open",
+    "time": "2026-10-21T14:41:34.563Z"
   }
 ]
