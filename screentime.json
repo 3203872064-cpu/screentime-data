@@ -7518,5 +7518,10 @@
     "app": "dazhongdianping",
     "action": "open",
     "time": "2026-10-22T09:21:50.157Z"
+  },
+  {
+    "app": "wechat",
+    "action": "close",
+    "time": "2026-10-22T09:21:50.574Z"
   }
 ]
