@@ -7453,5 +7453,10 @@
     "app": "douyin",
     "action": "close",
     "time": "2026-10-22T08:57:06.488Z"
+  },
+  {
+    "app": "zhifubao",
+    "action": "open",
+    "time": "2026-10-22T08:57:11.958Z"
   }
 ]
